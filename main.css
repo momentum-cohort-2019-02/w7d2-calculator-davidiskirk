@@ -1,0 +1,87 @@
+.body{
+    margin:auto;]
+    background-color: black;
+}
+
+.key{
+    height: 4em;
+    width: 4em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: black;
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10%;
+     
+}
+
+.ops{
+    height: 4em;
+    width: 4em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: black;
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10%;
+     
+}
+.clear{
+    height: 4em;
+    width: 4em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: black;
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10%;
+     
+}
+.num{
+    height: 4em;
+    width: 4em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: black;
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10%;
+     
+}
+
+.equals{
+    height: 4em;
+    width: 4em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: black;
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10%;
+     
+}
+
+
+.viewer{
+    height: 4em;
+    width: 12em;
+    font-family: sans-serif;
+    background-image: url("steve-1374281-unsplash.jpg");
+    color: rgb(0, 0, 0);
+    font-size: 3em;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 3%;
+}
+
